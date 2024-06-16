@@ -6,4 +6,4 @@ meu nome é João vitor
 - estou me desenvolvendo na linguagem Javascript 
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-  ![](https://br.ifunny.co/picture/51IVLLeQA?s=cl)
+  ![]()
